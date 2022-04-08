@@ -1,0 +1,66 @@
+{
+    "categories": [
+      {"id":1,"title":"Développement"},
+      {"id":2,"title":"Front-End"},
+      {"id":3,"title":"Back-End"},
+      {"id":4,"title":"Réalité virtuelle"},
+      {"id":5,"title":"UX / UI"}
+    ],
+    "activities": [
+      {
+        "id": "1",
+        "title": "HTML / CSS",
+        "subtitle": "HTML & CSS : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus aliquam orci sit amet bibendum. Vestibulum orci metus, fermentum et metus ut, pulvinar ultrices velit.",
+        "coverUri": "https://cefii-developpements.fr/pierrefrancois1075/assets/HTML_CSS_logo.png"
+      },
+      {
+        "id": "2",
+        "title": "JavaScript",
+        "subtitle": "JS : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus aliquam orci sit amet bibendum. Vestibulum orci metus, fermentum et metus ut, pulvinar ultrices velit.",
+        "coverUri": "https://cefii-developpements.fr/pierrefrancois1075/assets/JS_logo.png"
+      },
+      {
+        "id": "3",
+        "title": "jQuery",
+        "subtitle": "jQuery : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus aliquam orci sit amet bibendum. Vestibulum orci metus, fermentum et metus ut, pulvinar ultrices velit.",
+        "coverUri": "https://cefii-developpements.fr/pierrefrancois1075/assets/jQuery_logo.png"
+      },
+      {
+        "id": "4",
+        "title": "PHP",
+        "subtitle": "PHP : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus aliquam orci sit amet bibendum. Vestibulum orci metus, fermentum et metus ut, pulvinar ultrices velit.",
+        "coverUri": "https://cefii-developpements.fr/pierrefrancois1075/assets/PHP_logo.png"
+      },
+      {
+        "id": "5",
+        "title": "SQL",
+        "subtitle": "SQL : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus aliquam orci sit amet bibendum. Vestibulum orci metus, fermentum et metus ut, pulvinar ultrices velit.",
+        "coverUri": "https://cefii-developpements.fr/pierrefrancois1075/assets/SQL_logo.png"
+      }
+    ],
+    "trendActivities": [
+      {
+        "id": "6",
+        "title": "React Native",
+        "subtitle": "React Native : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus aliquam orci sit amet bibendum. Vestibulum orci metus, fermentum et metus ut, pulvinar ultrices velit.",
+        "coverUri": "https://cefii-developpements.fr/pierrefrancois1075/assets/RN_logo.png"
+      },
+      {
+        "id": "7",
+        "title": "Flutter",
+        "subtitle": "Flutter : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus aliquam orci sit amet bibendum. Vestibulum orci metus, fermentum et metus ut, pulvinar ultrices velit.",
+        "coverUri": "https://cefii-developpements.fr/pierrefrancois1075/assets/Flutter_logo.png"
+      }
+    ],
+    "favoriteActivities": [
+      {
+        "id": "8",
+        "title": "JavaScript",
+        "subtitle": "JS : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus aliquam orci sit amet bibendum. Vestibulum orci metus, fermentum et metus ut, pulvinar ultrices velit.",
+        "coverUri": "https://cefii-developpements.fr/pierrefrancois1075/assets/JS_logo.png"
+      }
+    ]
+  }
+
+  
+  
